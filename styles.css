@@ -1,0 +1,16 @@
+.about-us {
+
+    h1 {
+        background-color: lightblue;
+        padding: 24px 12px;
+    }
+
+    section {
+        border: solid 1px #333;
+        padding: 12px;
+
+        p {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+    }
+}
