@@ -14,3 +14,10 @@
         }
     }
 }
+
+/* services */
+#services {
+    padding: 12px;
+    margin: 12px 0;
+    background-color: lightcyan;
+}
